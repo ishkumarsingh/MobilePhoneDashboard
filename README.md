@@ -4,4 +4,6 @@ Files related Interactive Dashboard in Power BI
 
 👉 You will be able to build Dashboard like below <br><br>
 
-<img src="https://https://github.com/ishkumarsingh/MobilePhoneDashboard/blob/main/Mobile%20Sales%20Dashboard.png" alt="Image Description" width="300">
+<img src="https://github.com/ishkumarsingh/MobilePhoneDashboard/blob/main/Mobile%20Sales%20Dashboard.png" alt="Image Description" width="300">
+
+
